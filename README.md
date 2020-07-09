@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: 
+  - twitter: [@imsanjaysoni](https://twitter.com/imsanjaysoni)
+  - facebook: [imsanjaysoni](https://facebook.com/imsanjaysoni)
+  - linkedIn: [imsanjaysoni](https://linkedin.com/in/imsanjaysoni)
