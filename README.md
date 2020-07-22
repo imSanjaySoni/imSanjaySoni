@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **imSanjaySoni/imSanjaySoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: 
+
+## 🔭 My Recent Work
+<img src=https://github.com/imSanjaySoni/Inshorts-Clone-The-News-App/blob/master/banner.png width=100%/>
+
+ [Inshorts clone (The News App)](https://github.com/imSanjaySoni/Inshorts-Clone-The-News-App)
+
+
+
+## 📫 How to reach me: 
   - twitter: [@imsanjaysoni](https://twitter.com/imsanjaysoni)
   - facebook: [imsanjaysoni](https://facebook.com/imsanjaysoni)
   - linkedIn: [imsanjaysoni](https://linkedin.com/in/imsanjaysoni)
