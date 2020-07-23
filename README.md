@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
  [Inshorts clone (The News App)](https://github.com/imSanjaySoni/Inshorts-Clone-The-News-App)
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=imsanjaysoni&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 ## 📫 How to reach me: 
   - twitter: [@imsanjaysoni](https://twitter.com/imsanjaysoni)
