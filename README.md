@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sanjay Soni</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h2 align="center">Hi 👋, I'm Sanjay Soni</h1>
+<h5 align="center">A passionate Flutter developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsanjaysoni" alt="imsanjaysoni" /> </p>
 
 
@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 My Recent Work:
+### 🔭 My Recent Work:
 <img src=https://github.com/imSanjaySoni/Inshorts-Clone-The-News-App/blob/master/banner.png width=100%/>
 
  [Inshorts clone (The News App)](https://github.com/imSanjaySoni/Inshorts-Clone-The-News-App)
-## ⚡ Github Report Card:
+### ⚡ Github Report Card:
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imsanjaysoni&show_icons=true" alt="imsanjaysoni" /> </p>
 
-## 📫 How to reach me: 
+### 📫 How to reach me: 
 
 <p align="center">
 <a href="https://twitter.com/imsanjaysoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imsanjaysoni" height="35" width="35" /></a>
