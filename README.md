@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 My Recent Work
+## 🔭 My Recent Work:
 <img src=https://github.com/imSanjaySoni/Inshorts-Clone-The-News-App/blob/master/banner.png width=100%/>
 
  [Inshorts clone (The News App)](https://github.com/imSanjaySoni/Inshorts-Clone-The-News-App)
-
+## ⚡ Github Report card:
 <img src="https://github-readme-stats.vercel.app/api?username=imsanjaysoni&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 ## 📫 How to reach me: 
