@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### 📫 How to reach me: 
 
 <p align="center">
-<a href="https://twitter.com/imsanjaysoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imsanjaysoni" height="35" width="35" /></a>
-<a href="https://linkedin.com/in/imsanjaysoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imsanjaysoni" height="35" width="35" /></a>
-<a href="https://fb.com/imsanjaysoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="imsanjaysoni" height="35" width="35" /></a>
-<a href="https://instagram.com/imsanjaysoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imsanjaysoni" height="35" width="35" /></a>
-<a href="https://medium.com/imsanjaysoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="imsanjaysoni" height="35" width="35" /></a>
+<a href="https://twitter.com/imsanjaysoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imsanjaysoni" height="25" width="35" /></a>
+<a href="https://linkedin.com/in/imsanjaysoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imsanjaysoni" height="25" width="35" /></a>
+<a href="https://fb.com/imsanjaysoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="imsanjaysoni" height="25" width="35" /></a>
+<a href="https://instagram.com/imsanjaysoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imsanjaysoni" height="25" width="35" /></a>
+<a href="https://medium.com/imsanjaysoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="imsanjaysoni" height="25" width="35" /></a>
 </p>
