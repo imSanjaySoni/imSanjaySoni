@@ -20,13 +20,13 @@
 
 - 👨‍💻 All of my projects are available at [https://sanjaysoni.code](https://sanjaysoni.code)
 
-- 📝 I regularly write articles on [https://medium.com/imsanjaysoni](https://medium.com/imsanjaysoni)
+- 📝 I regularly write articles on [Medium](https://medium.com/imsanjaysoni)
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **imsanjaysoni@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mKdtIFmbmIP9z2DsxklmdANx1L6bjWFo/view?usp=sharing](https://tinyurl.com/a98e78vs)
+- 📄 Know about my experiences [Download Resume](https://tinyurl.com/a98e78vs)
 
 - ⚡ Fun fact **I think I am too shy 🙂**
 
