@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sanjaysoni.code](https://sanjaysoni.code)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/imsanjaysoni)
+- 📝 I regularly write articles on [Medium](https://medium.com/@imsanjaysoni)
 
 - 💬 Ask me about **Flutter**
 
