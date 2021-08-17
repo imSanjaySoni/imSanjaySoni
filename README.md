@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **imsanjaysoni@outlook.com**
 
-- 📄 Know about my experiences [Download Resume](https://tinyurl.com/a98e78vs)
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1mKdtIFmbmIP9z2DsxklmdANx1L6bjWFo/view)
 
 - ⚡ Fun fact **I think I am too shy 🙂**
 
