@@ -14,19 +14,19 @@
 
 <p align="left"> <a href="https://twitter.com/imsanjaysoni" target="blank"><img src="https://img.shields.io/twitter/follow/imsanjaysoni?logo=twitter&style=for-the-badge" alt="imsanjaysoni" /></a> </p>
 
-- 🔭 I’m currently working on **Online Multi play Game App**
+- 🔭  I’m currently working on **Online Multi-Player Game App**
 
-- 🌱 I’m currently learning **Android Jetpack, Kotlin, Swift UI**
+- 🌱  I’m currently learning **Android Jetpack, Kotlin, Swift UI**
 
-- 👨‍💻 All of my projects are available at [https://sanjaysoni.code](https://sanjaysoni.code)
+<!-- - 👨‍💻  All of my projects are available at [https://sanjaysoni.code](https://sanjaysoni.code)
+ -->
+- 📝  I regularly write articles on [Medium](https://medium.com/@imsanjaysoni)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@imsanjaysoni)
+- 💬  Ask me about **Flutter**
 
-- 💬 Ask me about **Flutter**
+- 📫  How to reach me **imsanjaysoni@outlook.com**
 
-- 📫 How to reach me **imsanjaysoni@outlook.com**
-
-- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1mKdtIFmbmIP9z2DsxklmdANx1L6bjWFo/view)
+- 📄  Know about my experiences [Download Resume](https://drive.google.com/file/d/1mKdtIFmbmIP9z2DsxklmdANx1L6bjWFo/view)
 
 - ⚡ Fun fact **I think I am too shy 🙂**
 
