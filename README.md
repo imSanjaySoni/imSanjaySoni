@@ -28,8 +28,6 @@
 
 - 📄  Know about my experiences [Download Resume](https://drive.google.com/file/d/1mKdtIFmbmIP9z2DsxklmdANx1L6bjWFo/view)
 
-<!-- - ⚡ Fun fact **I think I am too shy 🙂**
- -->
 <br/>
 
 <h3 align="left">Connect with me:</h3>
