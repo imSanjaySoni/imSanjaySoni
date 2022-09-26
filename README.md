@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay Soni</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate self taught developer from India</h3>
 
 ### 🔭 My Recent Work:
 <img src=https://github.com/imSanjaySoni/Inshorts-Clone-The-News-App/blob/master/banner.png width=100%/>
