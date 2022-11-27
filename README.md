@@ -28,7 +28,7 @@
 
 - 📫  How to reach me **imsanjaysoni@outlook.com**
 
-- 📄  Know about my experiences [Download Resume](https://drive.google.com/file/d/1mKdtIFmbmIP9z2DsxklmdANx1L6bjWFo/view)
+- 📄  Know about my experiences [Download Resume](https://drive.google.com/file/d/1JMruMcG75XBw-pacSRXpT5S3zx_3MK9-/view)
 
 <br/>
 
