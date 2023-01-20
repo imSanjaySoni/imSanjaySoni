@@ -8,17 +8,8 @@
 src="https://github.com/imSanjaySoni/Inshorts-Clone-The-News-App/blob/master/banner.png"
 width=100% /></a>
 
-<br />
+<br /> <br />
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=imsanjaysoni&label=Profile%20views&color=0e75b6&style=flat"
-    alt="imsanjaysoni"
-  />
-</p>
-
-[![Check out imSanjaySoni's profile on
-stardev.io](https://stardev.io/developers/imSanjaySoni/badge/languages/global.svg)](https://stardev.io/developers/imSanjaySoni)
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
@@ -28,13 +19,7 @@ stardev.io](https://stardev.io/developers/imSanjaySoni/badge/languages/global.sv
   /></a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/imsanjaysoni" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/imsanjaysoni?logo=twitter&style=for-the-badge"
-      alt="imsanjaysoni"
-  /></a>
-</p>
+<br />
 
 - 🔭 I’m currently working on **Online Multi-Player Game App**
 - 🌱 I’m currently learning **Swift and SwiftUI**
@@ -103,13 +88,14 @@ stardev.io](https://stardev.io/developers/imSanjaySoni/badge/languages/global.sv
       height="30"
       width="40"
   /></a>
+</p> 
+
+<p align="left">
+  <a href="https://twitter.com/imsanjaysoni" target="blank"
+    ><img
+      src="https://img.shields.io/twitter/follow/imsanjaysoni?logo=twitter&style=for-the-badge"
+      alt="imsanjaysoni"
+  /></a>
 </p>
 
 <br />
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=imsanjaysoni&"
-    alt="imsanjaysoni"
-  />
-</p>
