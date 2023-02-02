@@ -89,13 +89,3 @@ width=100% /></a>
       width="40"
   /></a>
 </p> 
-
-<p align="left">
-  <a href="https://twitter.com/imsanjaysoni" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/imsanjaysoni?logo=twitter&style=for-the-badge"
-      alt="imsanjaysoni"
-  /></a>
-</p>
-
-<br />
