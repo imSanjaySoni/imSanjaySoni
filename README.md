@@ -23,7 +23,6 @@ width=100% /></a>
 
 - 🔭 I’m currently working on **Online Multi-Player Game App**
 - 🌱 I’m currently learning **Swift and SwiftUI**
-- 📝 I regularly write articles on [Medium](https://medium.com/@imsanjaysoni)
 - 💬 Ask me about **Flutter** and **SwiftUI**
 - 📫 How to reach me **imsanjaysoni@outlook.com**
 - 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1JMruMcG75XBw-pacSRXpT5S3zx_3MK9-/view)
